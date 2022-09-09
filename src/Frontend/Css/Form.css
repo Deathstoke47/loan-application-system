@@ -1,0 +1,36 @@
+form{
+    background-color: #d3d3d3;
+    padding: 4.5rem;
+    border-radius: 0.5rem;
+}
+
+.loanApplication{
+    margin-top: 2rem;
+}
+.form p{
+    font-size: 1.5rem;
+}
+ input, .select{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    border-style: solid;
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+}
+.request-button{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border-width: 0px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.request-button button, .submit-button button{
+    width: 100%;
+    border: none;
+}
+
+

@@ -1,0 +1,16 @@
+.message{
+    font-size: 1.5rem;
+    padding-bottom: 2rem;
+}
+button{
+    width: 15rem;
+    height: 3rem;
+    border-style: solid;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    cursor: pointer;
+}
+a{
+    color: #fff;
+}
+

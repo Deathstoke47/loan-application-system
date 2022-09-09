@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: center;
+    gap: 45%;
+    color: black;
+}
+
+.menu ul{
+    display: flex;
+    gap: 2rem;
+}
+
+.menu a{
+    color:black
+}
